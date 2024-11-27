@@ -1,0 +1,13 @@
+[
+ {
+ "run": "20977244-2",
+ "nombre": "Jorge",
+ "apellido": "Farías",
+ "direccion": "Viñadelmar",
+ "fono": 14141414,
+ "correo":"jorge.farias20@inacapmail.cl",
+ "montoCredito": 2000000,
+ "deuda":700000,
+ "tipo": 1
+ }
+]
